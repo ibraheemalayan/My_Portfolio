@@ -2,7 +2,7 @@
 
 Nothing to see here 🙃 
 
-### go check my site https://resume.ibraheemalyan.dev
+### go check my site https://www.ibraheemalyan.dev
 
-### or contact me at ibraheem@ibraheemalyan.dev
+### or contact me at contact@ibraheemalyan.dev
  
