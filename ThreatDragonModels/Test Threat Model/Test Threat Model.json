@@ -1,0 +1,16 @@
+{
+  "version": "2.1.1",
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "DuunoOwner",
+    "description": "my portfolio website",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "DunnoReviewer",
+    "threatTop": 0
+  }
+}
